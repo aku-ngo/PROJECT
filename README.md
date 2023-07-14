@@ -24,6 +24,4 @@ This project focuses on implementing biometric authentication in social media ap
 2. Navigate to the authentication screen.
 3. Follow the on-screen instructions to enroll your biometric data.
 4. Once enrolled, you can use your biometric data (fingerprint, face, etc.) to authenticate and access the application's features securely.
-## Acknowledgments
-We would like to express our gratitude to the Android development community for their valuable resources and documentation that contributed to the successful implementation of biometric authentication in this project.
 
